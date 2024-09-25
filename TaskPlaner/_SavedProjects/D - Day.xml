@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectSerializationModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tasks>
+    <Task>
+      <Title />
+      <Priority>TOP</Priority>
+      <Status>In process</Status>
+      <Description>JUST DON'T FORGET TO SAY "THANKS FOR YOUR ATTENTION"</Description>
+    </Task>
+  </Tasks>
+  <Name>D - Day</Name>
+  <Description>We need to do our best!</Description>
+</ProjectSerializationModel>

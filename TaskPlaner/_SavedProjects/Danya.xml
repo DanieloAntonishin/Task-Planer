@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectSerializationModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tasks>
+    <Task>
+      <Title />
+      <Priority>-</Priority>
+      <Status>Done</Status>
+      <Description>Deadline - 09.12.2021</Description>
+    </Task>
+    <Task>
+      <Title />
+      <Priority>-</Priority>
+      <Status>Done</Status>
+      <Description>Deadline - 14.12.2021</Description>
+    </Task>
+  </Tasks>
+  <Name>Danya</Name>
+  <Description>Front-end</Description>
+</ProjectSerializationModel>

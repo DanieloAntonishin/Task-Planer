@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectSerializationModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tasks>
+    <Task>
+      <Title />
+      <Priority>TOP PRIORITY</Priority>
+      <Status>Done</Status>
+      <Description>Deadline - 17.12.2021</Description>
+    </Task>
+  </Tasks>
+  <Name>Final Project</Name>
+  <Description>Kristina is going to like it :)</Description>
+</ProjectSerializationModel>
